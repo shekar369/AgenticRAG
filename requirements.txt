@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-community
+langchain-openai
+langsmith
+faiss-cpu
+langchain-text-splitters
+python-dotenv
+beautifulsoup4
