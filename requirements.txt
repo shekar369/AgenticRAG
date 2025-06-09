@@ -7,3 +7,4 @@ faiss-cpu
 langchain-text-splitters
 python-dotenv
 beautifulsoup4
+textract==1.6.3
